@@ -1,6 +1,6 @@
 # nubankclone
 
-A new Flutter project.
+A clone of the Nubank app clone using Flutter.
 
 ## Getting Started
 
